@@ -1,0 +1,1 @@
+ 3*i - 1 is never 0 for i tested

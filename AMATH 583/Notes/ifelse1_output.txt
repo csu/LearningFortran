@@ -1,0 +1,2 @@
+ i is not less than 2
+ i is greater than 2 but not equal to 5
