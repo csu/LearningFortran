@@ -1,0 +1,14 @@
+~/LearningFortran/AMATH 583/Notes$ open builtinfcns2.f90
+ 
+~/LearningFortran/AMATH 583/Notes$ ^open^gfortran
+gfortran builtinfcns2.f90
+~/LearningFortran/AMATH 583/Notes$ ./a.out
+ pi =    3.1415927
+ x =   -1.0000000
+ y =    3.1415925
+~/LearningFortran/AMATH 583/Notes$ gfortran -fdefault-real-8 builtinfcns2.f90
+~/LearningFortran/AMATH 583/Notes$ ./a.out
+ pi =    3.1415926535897931
+ x =   -1.0000000000000000
+ y =    3.1415926535897927
+~/LearningFortran/AMATH 583/Notes$ 
