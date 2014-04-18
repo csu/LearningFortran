@@ -1,0 +1,12 @@
+  
+ M =            3
+  
+ x is real (kind=4)
+ x =    1.0000012345678899     
+  
+ y is real (kind=8)
+   but 1.e0 is real (kind=4):
+ y =    1.0000012345678899     
+  
+ z is real (kind=8)
+ z =    1.0000012345678899     
