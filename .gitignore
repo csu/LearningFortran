@@ -1,1 +1,6 @@
+*.sage-*
 *.out
+*.20*.ipy*
+*/.ipy*
+*.ipynb.syncdoc
+*.pyc
